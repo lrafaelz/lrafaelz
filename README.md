@@ -12,22 +12,16 @@
 - 🔭 I’m currently working on AV1 analysis
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: he/him
-
-
   </p>
   </td>
 </table>
-      
- 
-
- 
 </div>
 
 
 <div align="center">
   <a href="https://github.com/lrafaelz">
-  <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api?username=lrafaelz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrafaelz&layout=compact&langs_count=7&theme=dark"/>
+  <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=lrafaelz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrafaelz&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -38,7 +32,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
-  <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
+<img align="right" alt="lrafaelz  -pic" height="150" style="border-radius:50px;" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/042edece-aee6-4fb5-bbd9-ef9f09ca7cc4/PicsArt_05-13-03.13.09.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220327%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220327T035648Z&X-Amz-Expires=86400&X-Amz-Signature=54ef58e9411231fb25635b4bb1427ce0b02071b7047dce21a100b06e57949ab1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22PicsArt_05-13-03.13.09.jpg%22&x-id=GetObject">
 </div>
   
   ##
