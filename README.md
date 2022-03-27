@@ -21,7 +21,7 @@
 <div align="center">
   <a href="https://github.com/lrafaelz">
   <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=lrafaelz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrafaelz&layout=compact&langs_count=7&theme=dark"/>
+  <img width="300em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrafaelz&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -38,7 +38,7 @@
   ##
  
 <div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5535999638294?text=Ol%C3%A1,%20vim%20pelo%20seu%20perfil%20do%20Github" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lrafaelz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  <a href="https://discordapp.com/users/487971510225731584" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rafaelmelo.aluno@unipampa.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
