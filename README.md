@@ -32,7 +32,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
-<img align="right" alt="lrafaelz  -pic" height="150" style="border-radius:50px;" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/042edece-aee6-4fb5-bbd9-ef9f09ca7cc4/PicsArt_05-13-03.13.09.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220327%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220327T035648Z&X-Amz-Expires=86400&X-Amz-Signature=54ef58e9411231fb25635b4bb1427ce0b02071b7047dce21a100b06e57949ab1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22PicsArt_05-13-03.13.09.jpg%22&x-id=GetObject">
+<img align="right" alt="lrafaelz  -pic" height="150" style="border-radius:50px;" src="https://scontent.fria4-1.fna.fbcdn.net/v/t39.30808-6/272454190_4776367632476815_6002795839519818951_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lwaBbxLbYxkAX__NM4a&_nc_ht=scontent.fria4-1.fna&oh=00_AT-uzGirNTsFrt8UBaRv_yaO9tt_S-R8htR3SfYuO7vasA&oe=62C8BDF6">
 </div>
   
   ##
