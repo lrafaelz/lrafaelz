@@ -32,7 +32,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
-<img align="right" alt="lrafaelz  -pic" height="150" style="border-radius:50px;" src="https://scontent.fria4-1.fna.fbcdn.net/v/t39.30808-6/272454190_4776367632476815_6002795839519818951_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lwaBbxLbYxkAX__NM4a&_nc_ht=scontent.fria4-1.fna&oh=00_AT-uzGirNTsFrt8UBaRv_yaO9tt_S-R8htR3SfYuO7vasA&oe=62C8BDF6">
+<img align="right" alt="lrafaelz-pic" height="150" style="border-radius:50px;" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8b373f09-54c4-46e4-81ee-991d411f74bb/Untitled.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221114%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221114T173412Z&X-Amz-Expires=86400&X-Amz-Signature=578f7a061d94cef2fc3d5706c94668f6ea0aeea411a68ccf68e02cb991b1e76c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.jpeg%22&x-id=GetObject">
 </div>
   
   ##
