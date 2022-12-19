@@ -9,8 +9,8 @@
 <td width="50%">
 &nbsp;<p align="center">
   
-- 🔭 I’m currently working on AV1 analysis
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on Victus-VR 
+- 🌱 I’m currently learning C++
 - 😄 Pronouns: he/him
   </p>
   </td>
@@ -25,14 +25,18 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
-<img align="right" alt="lrafaelz-pic" height="150" style="border-radius:50px;" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8b373f09-54c4-46e4-81ee-991d411f74bb/Untitled.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221114%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221114T173412Z&X-Amz-Expires=86400&X-Amz-Signature=578f7a061d94cef2fc3d5706c94668f6ea0aeea411a68ccf68e02cb991b1e76c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.jpeg%22&x-id=GetObject">
+
+
+  
+<img align="right" alt="lrafaelz-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4E03AQHajNGa74kGMA/profile-displayphoto-shrink_800_800/0/1627647232149?e=1677110400&v=beta&t=I8MN4BMt5MXQVKvqP84WDmb61SKKAjIY9B1uvE1RpXo">
 </div>
   
   ##
