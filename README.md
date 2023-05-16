@@ -10,7 +10,7 @@
 &nbsp;<p align="center">
   
 - 🔭 I’m currently working on Victus-VR 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C#
 - 😄 Pronouns: he/him
   </p>
   </td>
