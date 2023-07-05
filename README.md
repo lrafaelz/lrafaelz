@@ -36,7 +36,7 @@
 
 
   
-<img align="right" alt="lrafaelz-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4E03AQHajNGa74kGMA/profile-displayphoto-shrink_800_800/0/1627647232149?e=1677110400&v=beta&t=I8MN4BMt5MXQVKvqP84WDmb61SKKAjIY9B1uvE1RpXo">
+<img align="right" alt="lrafaelz-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4E03AQHajNGa74kGMA/profile-displayphoto-shrink_800_800/0/1627647232149?e=1694044800&v=beta&t=io3-AqyLHVq_pXivhtD9WoPvh_oGthD2jvzZgj2fT2c">
 </div>
   
   ##
