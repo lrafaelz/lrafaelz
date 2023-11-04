@@ -9,9 +9,9 @@
 <td width="50%">
 &nbsp;<p align="center">
   
-- 🔭 I’m currently working on Victus-VR 
-- 🌱 I’m currently learning C#
-- 😄 Pronouns: he/him
+- 🔭 I’m currently working on CNN HW Gaussian Filter 
+- 🌱 I’m currently learning VHDL
+- 👴🏼 Age: 22 yo
   </p>
   </td>
 </table>
@@ -35,8 +35,8 @@
   
 
 
-  
-<img align="right" alt="lrafaelz-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4E03AQHajNGa74kGMA/profile-displayphoto-shrink_800_800/0/1627647232149?e=1694044800&v=beta&t=io3-AqyLHVq_pXivhtD9WoPvh_oGthD2jvzZgj2fT2c">
+ 
+<img align="right" alt="lrafaelz-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4E03AQHajNGa74kGMA/profile-displayphoto-shrink_800_800/0/1627647232149?e=1704326400&v=beta&t=-XzjhUdAC0XQKSJMZuhsjAlgj1dPwfrWUZBDcMgLN3Q">
 </div>
   
   ##
