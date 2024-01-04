@@ -1,4 +1,7 @@
 ## Olá 👋
+<header>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</header>
 
 <table width="100%"> 
   <tr>
@@ -25,6 +28,8 @@
 </div>
   
 <div style="display: inline_block"><br>
+  Skils
+  <br><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -32,11 +37,19 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Flask" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"/> 
+  <img align="center" alt="Aduino" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+          
+          
+          
+          
   
 
 
  
-<img align="right" alt="lrafaelz-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4E03AQHajNGa74kGMA/profile-displayphoto-shrink_800_800/0/1627647232149?e=1704326400&v=beta&t=-XzjhUdAC0XQKSJMZuhsjAlgj1dPwfrWUZBDcMgLN3Q">
+<img align="right" alt="lrafaelz-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/tbQG3cC/profile-Picture.jpg" >
 </div>
   
   ##
