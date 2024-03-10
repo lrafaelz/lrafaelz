@@ -62,10 +62,13 @@
   <a href = "mailto:rafaelmelo.aluno@unipampa.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lrafaelz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-
-  <img src="https://raw.githubusercontent.com/lrafaelz/lrafaelz/output/snake.svg" alt="Snake animation" />
-  
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lrafaelz/lrafaelz/output/snake.svg" alt="Snake animation" />
+
+###
 
   
 
