@@ -62,9 +62,10 @@
   <a href = "mailto:rafaelmelo.aluno@unipampa.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lrafaelz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/lrafaelz/lrafaelz/blob/output/github-contribution-grid-snake.svg)
+
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
   
-  </div>
+</div>
 
   
 
