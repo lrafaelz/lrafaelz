@@ -63,7 +63,7 @@
   <a href="https://www.linkedin.com/in/lrafaelz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/lrafaelz/lrafaelz/output/snake.svg" alt="Snake animation" />
   
 </div>
 
