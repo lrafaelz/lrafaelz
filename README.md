@@ -1,4 +1,4 @@
-## Olá 👋
+## Olá, 👋
 <header>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header>
@@ -12,9 +12,9 @@
 <td width="50%">
 &nbsp;<p align="center">
   
-- 🔭 I’m currently working on CNN HW Gaussian Filter 
-- 🌱 I’m currently learning VHDL
-- 👴🏼 Age: 22 yo
+- 🔭 I’m currently working on Victus Exergame
+- 🌱 I’m currently learning web development
+- 👴🏼 Age: 23 yo
   </p>
   </td>
 </table>
