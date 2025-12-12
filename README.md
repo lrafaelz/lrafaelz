@@ -14,7 +14,7 @@
   
 - 🔭 I’m currently working on Victus Exergame
 - 🌱 I’m currently learning web development
-- 👴🏼 Age: 23 yo
+- 👴🏼 Age: 24 yo
   </p>
   </td>
 </table>
@@ -51,7 +51,7 @@
 
 
  
-<img align="right" alt="lrafaelz-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/tbQG3cC/profile-Picture.jpg" >
+<img align="right" alt="lrafaelz-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/v2/D4D03AQFIVtE4dA3JvA/profile-displayphoto-crop_800_800/B4DZqcUcHVKUAI-/0/1763559196042?e=1767225600&v=beta&t=vB4f57EaiWc-9RZG5CWpJwMj8HZ26Au77dc7Z9l2bKc" >
 </div>
   
   ##
